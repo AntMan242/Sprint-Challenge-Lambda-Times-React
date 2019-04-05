@@ -30,8 +30,20 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 
 - [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
 - [ ] Describe a life-cycle event in React?
+
+    A lifecycle event is a set of phases in a components life. Birth/Mounting, Growth/Updating and Death/Unmounting.
+
 - [ ] Explain the details of a Higher Order Component?
+
+An HOC is a function that receives a Component as an argument and returns a new component source.
+
 - [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+
+React Strap: Pre-built components library that are already styled
+
+CSS using className.
+
+Styled Components: reusable.
 
 ## Project Setup
 
